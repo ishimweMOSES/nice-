@@ -139,8 +139,7 @@ SQL> INSERT INTO Books (book_id, title, author, category_id, price)
 
 
 SQL>
-SQL> INSERT INTO Books (book_id, title, author, category_id, price)
-  2  VALUES (5, 'Foundation', 'Isaac Asimov', 1, 21.00);
+
 
 
 
