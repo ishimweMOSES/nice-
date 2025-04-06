@@ -66,7 +66,6 @@ SQL> CREATE TABLE Transactions (
 
 
 
-SQL> INSERT INTO Users (user_id, name, email) VALUES (27657, 'Moise Ishimwe', 'moise@example.com');
 
 
 
